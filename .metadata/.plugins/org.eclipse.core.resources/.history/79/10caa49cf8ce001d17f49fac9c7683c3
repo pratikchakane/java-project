@@ -1,0 +1,5 @@
+package com.mini.dao;
+
+public class BookDaoImpl {
+
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="com.mini.pojo.Book"/>
+    <fullyQualifiedTypeName name="com.mini.dao.BookDaoImpl"/>
+    <fullyQualifiedTypeName name="com.mini.pojo.CompareId"/>
+    <fullyQualifiedTypeName name="com.mini.pojo.CompareAuthor"/>
+    <fullyQualifiedTypeName name="com.mini.pojo.ComparePrice"/>
+    <fullyQualifiedTypeName name="com.mini.pojo.CompareName"/>
+</qualifiedTypeNameHistroy>

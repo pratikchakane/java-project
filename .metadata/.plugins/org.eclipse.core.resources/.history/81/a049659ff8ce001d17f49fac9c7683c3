@@ -1,0 +1,19 @@
+package com.mini.dao;
+
+
+package BookDAO;
+
+import java.util.*;
+
+import BookProject.Book;
+
+public interface BookDao {
+	public boolean addBook(Book b);
+	public boolean updateBook(Book b);
+	public boolean deleteBook(int id);
+	
+	public Book showById(int id);
+	public Book showByName(String name);
+	public ArrayList<Book> showAllBooks();
+
+}

@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Amin
+ *
+ */
+module CollectionMiniProject {
+}
